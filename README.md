@@ -1,5 +1,5 @@
 # Tic Tac Toe
-Tic Tac Toe Game
+
 A simple tic tac toe game build in vanilla javascript, along with some nice HTML & CSS.
 <hr/>
 
