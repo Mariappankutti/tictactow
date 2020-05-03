@@ -5,7 +5,7 @@ A simple tic tac toe game build in vanilla javascript, along with some nice HTML
 
 ##### How To Use It
 * Clone the repository
-* Go in `simple/index.html` file 
+* Go in `/index.html` file 
 
 <hr/>
 ##### Things I am using 
