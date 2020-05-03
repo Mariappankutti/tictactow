@@ -1,0 +1,22 @@
+td {
+    border: 1px solid #000000;
+    height: 65px;
+    width: 200px;
+    cursor: pointer;
+}
+body{
+    position: absolute;
+    top : 40%;
+    left: 40%;
+}
+.tic,.toc{
+    pointer-events: none;
+    text-align: center;
+    font-size: 34px;
+}
+.tic {
+    background-color: green;
+}
+.toc {
+    background-color: red;
+}
